@@ -79,4 +79,4 @@ From the **Report Screen**, you can export all tables as CSV files to the device
 
 ---
 
-apk-file link: https://drive.google.com/file/d/1vCUqE4Ci-GHABPvf-B8mqhH6SozuKEGo/view?usp=drive_link
+Apk-File: https://drive.google.com/file/d/1vCUqE4Ci-GHABPvf-B8mqhH6SozuKEGo/view?usp=drive_link
